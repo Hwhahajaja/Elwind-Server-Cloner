@@ -33,7 +33,7 @@ guild_s = input('\n[>]  Server to Copy ID: ')
 guild = input('\n[>]  Your Server ID: ')
 input_guild_id = guild_s
 output_guild_id = guild
-token = "" ## ENTER YOUR TOKEN HERE
+token = "MTE4MjM1NTk5ODcwNzU0ODI4MQ.GTmC_6.PEa6KBfAMSsaO0LOFQCNnmoC9RwP_lZToW9DgA" ## ENTER YOUR TOKEN HERE
 
 
 print("  ")
